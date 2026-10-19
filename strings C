@@ -1,1 +1,12 @@
+#include <stdio.h>
 
+int main() {
+printf("27")
+int contador , turma;
+
+    
+
+
+
+    
+}
